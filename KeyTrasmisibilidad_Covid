@@ -1,0 +1,7 @@
+KeyTrans1, KeyTrans2, KeyTrans3
+affected,	percentage,	person
+patient,	close,	infected
+contact,	relatives,	accompanied
+list,	commonly,	other
+traceability,	infected,	people
+infected,	patient,	relatives
