@@ -1,11 +1,11 @@
-KeyDiag1, KeyDiag2, KeyDiag3, KeyDiag4, KeyDiag5
-early,	indications,	evidence,	whom,	criteria
-signs,	procedure,	increased,	inform,	identification
-complication,	time,	disease,	probable,	patient
-prodroms,	suspicious,	severity,	case,	probable
-,	cases,	young,	,	case
-,	sampling,	patient,	,	unusual
-,	diagnosis,	cases,	,	serious
-,	,	,	,	acute
-,	,	,	,	respiratory
-,	,	,	,	infection 
+KeyDiag1, KeyDiag2, KeyDiag3, KeyDiag4, KeyDiag5, keyDiag6
+early,	indications,	evidence,	whom,	criteria, humans
+signs,	procedure,	increased,	inform,	identification, coronavirus
+complication,	time,	disease,	probable,	patient, primers
+prodroms,	suspicious,	severity,	case,	probable, reagents
+,	cases,	young,	,	case, kit
+,	sampling,	patient,	,	unusual, test
+,	diagnosis,	cases,	,	serious, RT pCR
+,	,	,	,	acute, magnetic beads
+,	,	,	,	respiratory, effectiveness
+,	,	,	,	infection, complexity
